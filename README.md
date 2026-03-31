@@ -1,6 +1,6 @@
 ## Hi there 👋，I'm leaf
 
-目前在某工业互联网院内担任Java开发工程师 💻，专注于企业数字化转型的产品系统 🍺。
+Java开发工程师 💻，专注于企业数字化转型的系统 🍺。
 
 主力编码开发使用 ![](https://img.shields.io/badge/Windows-0078D6?style=flate&logo=windows&logoColor=white)
 
